@@ -352,7 +352,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "FB.Flipper.Double-Conversion";
-				PRODUCT_MODULE_NAME = "double-conversion";
+				PRODUCT_MODULE_NAME = "doubleconversion";
 				PRODUCT_NAME = "double-conversion";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -377,7 +377,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "FB.Flipper.Double-Conversion";
-				PRODUCT_MODULE_NAME = "double-conversion";
+				PRODUCT_MODULE_NAME = "doubleconversion";
 				PRODUCT_NAME = "double-conversion";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
